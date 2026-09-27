@@ -1,0 +1,64 @@
+Product Brief: AI study buddy
+Executive Summary
+AI Study Buddy is an application that helps students turn their own lecture notes, slides,
+and study materials into useful learning resources. Students upload their material, choose
+language and receive summaries, flashcards, quizzes and key concepts.
+The problem is not a lack of information, but the time and effort required to process large
+amounts of study material. AI Study Buddy makes this process faster and more structured
+while helping students learn practical ways to use AI for text processing and studying.
+The Problem
+Students often have large amounts of notes and lecture slides but limited time to process
+them. Creating summaries, flashcards, and practice questions manually is time-
+consuming, while generic AI tools may produce overly broad answers or content that is
+difficult to verify. The results is that students spend their time doing less work getting
+quizes ready and more time actually working with their meterial
+The Solution
+AI Study Buddy provides a simple workflow:
+Upload > Generate > Study
+Students can upload PDF or text-based material and receive:
+-Concise or detailed summaries.
+-Flashcards for active recall.
+-Quiz questions and answers.
+-References to relevant pages or sections where possible.
+The product focuses on helping students process their own notes into quizzes
+What Makes This Different
+> Uses the student's own course material.
+> Generates multiple learning formats from the same source.
+> Offers simple controls for language and detail.
+> Provides source references to improve trust and verification.
+> Gives students hands-on experience using AI responsibly.
+The initial advantage is likely to be simplicity and execution.
+Who This Serves
+Primary users will be students off all kinds. (pref higher level students)
+This server anyone that has notes or course material they want to turn into working
+quizzes. They need to qoickly understand what matters, organize their material, and test
+their knowlede.
+Success is when students move from “ i have too much material and don’t know where to
+start” to “i have a clear overview and can start practicing”
+Success Criteria
+70%+ of users who upload material generate at least one learning resource.
+60%+ use generated flashcards or quizzes for active study.
+70%+ report that the product makes their material easier to process.
+Most users can go from upload to their first learning resource within two minutes,
+excluding processing time.
+Product Success
+High completion rate from upload to generated content.
+Repeat usage with new course material.
+Low error rate for PDF/text processing.
+Scope
+In — MVP
+The first version focuses on one core workflow:
+Upload study material → generate learning resources.
+Included:
+PDF and text uploads.
+Course/subject and language selection.
+Adjustable summary detail.
+Summaries, flashcards, quizzes, and key concepts.
+Out — MVP
+Automatic grading.
+University-system integrations.
+Advanced learning analytics.
+Complex interpretation of diagrams and figures.
+Vision
+The long-term goal is simple: help students process, understand, and actively practice
+their own curriculum while becoming more capable and responsible users of AI
